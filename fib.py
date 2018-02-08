@@ -1,5 +1,5 @@
 # Guilherme Paes
-# A program that displays Fibonacci numbers.
+# A program that displays Fibonacci numbers (Adapted from Ian McLoughlin)
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
