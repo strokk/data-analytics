@@ -27,13 +27,12 @@ print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
 
-#My surname is Paes
-#The first letter P is number 80
-#The last letter s is number 115
-#Fibonacci number 195 is 25299086886458645685589389182743678652930
+"""My surname is Paes
+The first letter P is number 80
+The last letter s is number 115
+Fibonacci number 195 is 25299086886458645685589389182743678652930
 
 
-#The ord() method returns an integer representing Unicode code point for the given Unicode character.
-#In other words, it gives the ASCII code of the character.
-#Example: ord(‘d’) is 100
-
+The ord() method returns an integer representing Unicode code point for the given Unicode character.
+In other words, it gives the ASCII code of the character.
+Example: ord(‘d’) is 100"""
